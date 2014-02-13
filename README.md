@@ -1,7 +1,7 @@
 Math-Stats
 ==========
 
-Math Stats
+Quick Mean/Std Dev
 
 This small but handy program that takes in floats from the command line (via argv), and outputs the mean
 and standard deviation. For example:
